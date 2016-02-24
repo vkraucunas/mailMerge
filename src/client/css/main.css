@@ -1,0 +1,25 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+header {
+    padding: 50px;
+}
+
+a {
+  color: #fff;
+}
+
+.right {
+    text-align: right;
+    margin-left: 98%;
+}
+
+.emailChunk {
+    border: 1px solid gray;
+    margin: 20px 0;
+}
+
+.container {
+    margin-bottom: 30px;
+}
